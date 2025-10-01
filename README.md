@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teesha Yadav</h1>
+<h1 align="center">I'm Teesha Yadav </h1>
 <h3 align="center">I am a passionate Frontend Developer from India with a strong enthusiasm for creating engaging and user-friendly web applications. With expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React and Vue.js, I focus on building responsive, accessible, and performant interfaces. I enjoy transforming complex design concepts into seamless digital experiences and continuously learning new technologies to stay updated in the fast-evolving web development landscape.
 
 </h3>
