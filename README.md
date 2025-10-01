@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teesha Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate Frontend Developer from India with a strong enthusiasm for creating engaging and user-friendly web applications. With expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React and Vue.js, I focus on building responsive, accessible, and performant interfaces. I enjoy transforming complex design concepts into seamless digital experiences and continuously learning new technologies to stay updated in the fast-evolving web development landscape.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teeshayadav01&label=Profile%20views&color=0e75b6&style=flat" alt="teeshayadav01" /> </p>
 
